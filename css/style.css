@@ -74,6 +74,7 @@ span.add-section{
     padding: 2rem;
 }
 
+                                                /* BACKGROUND*/
 span.blue-background{
     background-color:#77a5ec;
     border-radius: 10px;
@@ -81,7 +82,7 @@ span.blue-background{
     font-size: .8rem;
     color: white;
 }
-span.pink-background{
+span.violet-background{
     background-color: #9467de;
     border-radius: 10px;
     padding: 3px;
@@ -104,6 +105,22 @@ span.orange-background{
     color: white;
 }
 
+span.pink-background{
+    background-color:#bd629e;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: .8rem;
+    color: white;
+}
+span.lightgreen-background{
+    background-color:#b3cc43;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: .8rem;
+    color: white;
+}
+
+                                                   /*FONT*/
 span.font-green{
     color: #79c800;
     border: 2px solid #79c800;
