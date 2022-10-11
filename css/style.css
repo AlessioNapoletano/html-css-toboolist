@@ -18,3 +18,33 @@ div.header-logo{
 #main-header-txt{
     display: inline-block;
 }
+
+article.container-add{
+    background-color: white;
+    margin: 2.5rem auto 0rem;
+    width: 69rem;
+    height: 3rem;
+    border-radius: .5rem .5rem 0rem 0rem;
+}
+
+article.container-task{
+    background-color: white;
+    margin: .1rem auto;
+    width: 69rem;
+    height: 30rem;
+    border-radius: 0rem 0rem 0.5rem 0.5rem;
+}
+
+span.add-task{
+    border: 1px solid #33b2ff;
+    border-radius: 13%;
+    background-color: #33b2ff;
+    color: white;
+}
+
+span.add-section{
+    border: 1px solid lightgray;
+    border-radius: 13%;
+    background-color: white;
+    color: lightgray;
+}
