@@ -5,7 +5,17 @@ p{
     margin-top: .5rem;
     margin-bottom: .5rem;
 }
+ul{
+    list-style: none;
+}
 
+li{
+    margin-top: 9px;
+}
+
+section{
+    margin-bottom: 2rem;
+}
 
 *{
     padding:0;
@@ -71,10 +81,43 @@ span.blue-background{
     font-size: .8rem;
     color: white;
 }
+span.pink-background{
+    background-color: #9467de;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: .8rem;
+    color: white;
+}
+span.green-background{
+    background-color: #87bfa8;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: .8rem;
+    color: white;
+}
+
+span.orange-background{
+    background-color: #daa248;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: .8rem;
+    color: white;
+}
 
 span.font-green{
     color: #79c800;
     border: 2px solid #79c800;
     border-radius: 100%;
     padding: 3px;
+}
+
+span.font-red{
+    color: #cc6862;
+    border: 2px solid #cc6862;
+    border-radius: 100%;
+    padding: 3px;
+}
+
+.list{
+    padding-top: 0.2rem;
 }
