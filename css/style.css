@@ -5,6 +5,8 @@ p{
     margin-top: .5rem;
     margin-bottom: .5rem;
 }
+
+
 *{
     padding:0;
     margin: 0;
@@ -14,13 +16,16 @@ p{
 
 div.header-logo{
     background-color: white;
+    padding: .7rem;
 }
 
 #main-logo{
-    margin: .5rem 1rem;
+    vertical-align:middle
 }
+
 #main-header-txt{
     display: inline-block;
+    vertical-align:middle
 }
 
 article.container-add{
@@ -29,6 +34,7 @@ article.container-add{
     width: 69rem;
     height: 3rem;
     border-radius: .5rem .5rem 0rem 0rem;
+    padding: 1rem 3rem;
 }
 
 article.container-task{
@@ -41,16 +47,18 @@ article.container-task{
 
 span.add-task{
     border: 1px solid #33b2ff;
-    border-radius: 13%;
+    border-radius: 19%;
     background-color: #33b2ff;
     color: white;
+    padding: .2rem;
 }
 
 span.add-section{
     border: 1px solid lightgray;
-    border-radius: 13%;
+    border-radius: 19%;
     background-color: white;
     color: lightgray;
+    padding: .2rem;
 }
 .container-task{
     padding: 2rem;
