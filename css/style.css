@@ -46,16 +46,16 @@ article.container-task{
 }
 
 span.add-task{
-    border: 1px solid #33b2ff;
-    border-radius: 19%;
-    background-color: #33b2ff;
+    border: 1px solid #77a5ec;
+    border-radius: 5px;
+    background-color: #77a5ec;
     color: white;
     padding: .2rem;
 }
 
 span.add-section{
     border: 1px solid lightgray;
-    border-radius: 19%;
+    border-radius: 5px;
     background-color: white;
     color: lightgray;
     padding: .2rem;
@@ -65,7 +65,7 @@ span.add-section{
 }
 
 span.blue-background{
-    background-color:#33b2ff;
+    background-color:#77a5ec;
     border-radius: 10px;
     padding: 3px;
     font-size: .8rem;
